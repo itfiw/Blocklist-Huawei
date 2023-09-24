@@ -91,3 +91,14 @@ tsms-dre-platform-dbankcloud.com-dre.appacc-region.dbankedge.net
 upfile5.hicloud.com
 upfile7.hicloud.com
 videocontent-dra.himovie.hicloud.com
+grs.dbankcloud.com
+event.dbankcdn.com
+push.hicloud.com
+pushtrs1.push.hicloud.com
+pushtrs2.push.hicloud.com
+pushtrs3.push.hicloud.com
+pushtrs4.push.hicloud.com
+pushtrs5.push.hicloud.com
+pushtrs6.push.hicloud.com
+pushtrs7.push.hicloud.com
+logbak.hicloud.com
